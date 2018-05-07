@@ -9,8 +9,9 @@ jupyter-console==5.2.0
 jupyter-core==4.3.0
 matplotlib==2.0.2
 notebook==5.0.0
-numpy==1.13.1
+numpy>=1.9.2
+scipy>=0.15.1
 numpydoc==0.7.0
-pandas==0.20.3
+pandas>=0.19
 urllib3==1.22
-sklearn==0.19.1
+scikit-learn>=0.18
