@@ -13,4 +13,4 @@ numpy==1.13.1
 numpydoc==0.7.0
 pandas==0.20.3
 urllib3==1.22
-sklearn>=0.19
+sklearn==0.19.1
